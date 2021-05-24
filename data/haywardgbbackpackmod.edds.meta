@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{29B0AC3EF13DA4B7}HaywardsBackpackMod/data/haywardgbbackpackmod.edds"
+ Author "desktop-bnajkqd"
+ ChangeDate -833770861
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "haywardgbbackpackmod.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}
