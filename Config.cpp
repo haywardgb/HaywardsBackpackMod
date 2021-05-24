@@ -1,7 +1,3 @@
-// You can edit and repack this to your hearts content 
-// Feel free to give me credit and or a donation: paypal.me/hayward72
-// Share and share-alike. Thank you :)
-
 class CfgPatches
 {
 	class Haywards_Backpack_Mod
